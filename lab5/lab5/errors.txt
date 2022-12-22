@@ -1,0 +1,34 @@
+Success! key: 1; value: 123.
+Success! key: 12; value: 1234.
+Success! key: 1; value: 123.
+Error! key 13 doesn't exists.
+Success! Added cookie! key: 1; value: 123; time:2022-12-01T19:30.
+Success! key: 1; value: 123.
+Success! Added cookie! key: 4; value: 146; time:2022-12-01T19:30.
+Error! key 1 doesn't exists.
+Success! Added cookie! key: 1; value: 214; time:2022-12-01T19:30.
+Error! key 1 doesn't exists.
+Error! key 1 doesn't exists.
+Error! key 4 doesn't exists.
+Success! Added cookie! key: 2; value: 123; time:2022-12-01T19:30.
+Error! key 2 doesn't exists.
+Error! key 2 doesn't exists.
+Error! key 1 doesn't exists.
+Error! key 1 doesn't exists.
+Success! Added cookie! key: 5; value: 768; time:2022-12-16T19:30.
+Error! key 5 doesn't exists.
+Error! key 5 doesn't exists.
+Error! key 5 doesn't exists.
+Error! key 5 doesn't exists.
+Error! key 5 doesn't exists.
+Error! key 5 doesn't exists.
+Error! key 5 doesn't exists.
+Error! key 1 doesn't exists.
+Error! key 4 doesn't exists.
+Error! key 2 doesn't exists.
+Error! key 1 doesn't exists.
+Error! key 1 doesn't exists.
+Error! key 1 doesn't exists.
+Error! key 1 doesn't exists.
+Success! Added cookie! key: 1; value: 146; time:2023-01-02T19:30.
+Success! key: 1; value: 146.

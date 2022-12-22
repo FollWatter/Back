@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "Hash": "kF0Gw/6Q5Pr3yEj4mEgHSvxw2WiFnIQyBXwJbaAFndI=",
+  "Source": "lab5",
+  "BasePath": "_content/lab5",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\kolam\\source\\repos\\lab5\\lab5\\obj\\Debug\\net6.0\\scopedcss\\bundle\\lab5.styles.css",
+      "SourceId": "lab5",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\kolam\\source\\repos\\lab5\\lab5\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/lab5",
+      "RelativePath": "lab5.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\kolam\\source\\repos\\lab5\\lab5\\obj\\Debug\\net6.0\\scopedcss\\bundle\\lab5.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\kolam\\source\\repos\\lab5\\lab5\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\lab5.bundle.scp.css",
+      "SourceId": "lab5",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\kolam\\source\\repos\\lab5\\lab5\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/lab5",
+      "RelativePath": "lab5.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\kolam\\source\\repos\\lab5\\lab5\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\lab5.bundle.scp.css"
+    }
+  ]
+}
