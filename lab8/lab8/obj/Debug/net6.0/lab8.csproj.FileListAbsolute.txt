@@ -1,0 +1,8 @@
+C:\Users\kolam\source\repos\lab8\lab8\obj\Debug\net6.0\lab8.csproj.AssemblyReference.cache
+C:\Users\kolam\source\repos\lab8\lab8\obj\Debug\net6.0\lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolam\source\repos\lab8\lab8\obj\Debug\net6.0\lab8.AssemblyInfoInputs.cache
+C:\Users\kolam\source\repos\lab8\lab8\obj\Debug\net6.0\lab8.AssemblyInfo.cs
+C:\Users\kolam\source\repos\lab8\lab8\obj\Debug\net6.0\lab8.csproj.CoreCompileInputs.cache
+C:\Users\kolam\source\repos\lab8\lab8\obj\Debug\net6.0\lab8.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kolam\source\repos\lab8\lab8\obj\Debug\net6.0\lab8.RazorAssemblyInfo.cache
+C:\Users\kolam\source\repos\lab8\lab8\obj\Debug\net6.0\lab8.RazorAssemblyInfo.cs
