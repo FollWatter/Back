@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "Hash": "R0rg/dnQc4oj8dF28zwU+mcbRcmrPR9KqD7oB8h1M2I=",
+  "Source": "lab10",
+  "BasePath": "_content/lab10",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\kolam\\source\\repos\\lab10\\lab10\\obj\\Debug\\net6.0\\scopedcss\\bundle\\lab10.styles.css",
+      "SourceId": "lab10",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\kolam\\source\\repos\\lab10\\lab10\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/lab10",
+      "RelativePath": "lab10.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\kolam\\source\\repos\\lab10\\lab10\\obj\\Debug\\net6.0\\scopedcss\\bundle\\lab10.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\kolam\\source\\repos\\lab10\\lab10\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\lab10.bundle.scp.css",
+      "SourceId": "lab10",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\kolam\\source\\repos\\lab10\\lab10\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/lab10",
+      "RelativePath": "lab10.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\kolam\\source\\repos\\lab10\\lab10\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\lab10.bundle.scp.css"
+    }
+  ]
+}
